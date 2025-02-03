@@ -52,11 +52,16 @@ Currently my focus is to get an opportunity to work with Frontend development, t
 
 <details>
     <summary><strong>Facts about me 💡</strong></summary>
-   1. My first contact with Personal Computers was in 1999, i remember the funny thing to do was change Windows 98 themes haha.<br>
-   2. I have 2 higher education degrees: one in cinema and the other in IT.<br>
-   3. I started my first job to work modeling 3D characters for games and movies but ended up working with interface design and user experience.<br>
-   4. When i worked with UI & UX design, i always worked alongside developers, and this gave me a lot of knowledge in the world of programming.<br>
-   5. I love innovation brainstormings, because i've worked in a multidisciplinar innovation lab that creates any kind of technology, from a CRUD web software to an IoT smart trash can.
+   
+  - My first contact with Personal Computers was in 1999, i remember the funny thing to do was change Windows 98 themes haha;
+  
+  - I have 2 higher education degrees: one in cinema and the other in IT;
+    
+   - I started my first job to work modeling 3D characters for games and movies but ended up working with interface design and user experience;
+     
+   - When i worked with UI & UX design, i always worked alongside developers, and this gave me a lot of knowledge in the world of programming;
+     
+   - I love innovation brainstormings, because i've worked in a multidisciplinar innovation lab that creates any kind of technology, from a CRUD web software to an IoT smart trash can.
 </details>
 
 <details>
