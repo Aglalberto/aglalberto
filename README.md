@@ -1,16 +1,81 @@
-## Hi there 👋
+<h1 align="center">Hi 👋, I'm Aglalberto</h1>
+<h3 align="center">A Frontend developer and UI & UX Designer from Brazil</h3>
 
-<!--
-**Aglalberto/aglalberto** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Currently my focus is to get an opportunity to work with Frontend development, taking advantage of my 8 years of experience with UI & UX Design.
 
-Here are some ideas to get you started:
+- 🌱 I’m currently learning **NextJS**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 👯 I’m looking to collaborate on **Frontend projects**
+
+- 🤝 I’m looking for help to **find my first oportunity in frontend area**
+
+- 💬 Ask me about **Human Computer Interaction (HCI)**
+
+- 📄 Know about my experiences [https://aglalberto.github.io/resume/](https://aglalberto.github.io/resume/)
+
+- 👨🏻‍💻👾 I’m a technology innovation enthusiast and old school gamer
+
+
+<h3 align="left">Languages and Tools:</h3>
+<div align="left">
+  <img src="https://skillicons.dev/icons?i=html" height="30" alt="html5 logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=css" height="30" alt="css3 logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=js" height="30" alt="javascript logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=react" height="30" alt="react logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=bootstrap" height="30" alt="bootstrap logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=nodejs" height="30" alt="nodejs logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=express" height="30" alt="express logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=mysql" height="30" alt="mysql logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=git" height="30" alt="git logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=github" height="30" alt="github logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=figma" height="30" alt="figma logo"  />
+  <img width="12" />
+  <img src="https://cdn.simpleicons.org/adobephotoshop/31A8FF" height="30" alt="photoshop logo"  />
+  <img width="12" />
+  <img src="https://cdn.simpleicons.org/adobeillustrator/FF9A00" height="30" alt="illustrator logo"  />
+  <img width="12" />
+  <img src="https://cdn.simpleicons.org/adobepremierepro/9999FF" height="30" alt="premierepro logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=blender" height="30" alt="blender logo"  />
+</div>
+<br>
+
+<details>
+    <summary><strong>Facts about me 💡</strong></summary>
+   1. My first contact with Personal Computers was in 1999, i remember the funny thing to do was change Windows 98 themes haha.<br>
+   2. I have 2 higher education degrees: one in cinema and the other in IT.<br>
+   3. I started my first job to work modeling 3D characters for games and movies but ended up working with interface design and user experience.<br>
+   4. When i worked with UI & UX design, i always worked alongside developers, and this gave me a lot of knowledge in the world of programming.<br>
+   5. I love innovation brainstormings, because i've worked in a multidisciplinar innovation lab that creates any kind of technology, from a CRUD web software to an IoT smart trash can.
+</details>
+
+<details>
+  <summary><strong>My top 10 favorite games</strong> 🕹️</summary>
+  
+  | 1  | Zelda Ocarina of Time                | N64        |
+  |----|---------------------------------------|------------|
+  | 2  | Castlevania Symphony of the Night    | PS1        |
+  | 3  | The Elder Scrolls V Skyrim           | PC         |
+  | 4  | Megaman X1                            | SNES       |
+  | 5  | GTA San Andreas                      | PC         |
+  | 6  | Need for Speed Underground 2         | PC         |
+  | 7  | Resident Evil 2                      | PS1        |
+  | 8  | Diablo 2                             | PS1        |
+  | 9  | Pokémon Ruby                         | GBA        |
+  | 10 | Final Fantasy Tactics                | PS1        |
+
+  ##### Bonus: Bike Mice From Mars [SNES] | Sonic [Mega drive] | Super Mario World [SNES] | Metal Warriors [SNES] <br>
+  ##### Will be always in my ❤: Ragnarok Online 
+</details>
+
+
