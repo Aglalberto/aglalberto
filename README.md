@@ -59,7 +59,7 @@ Currently my focus is to get an opportunity to work with Frontend development, t
      
    - When i worked with UI & UX design, i always worked alongside developers, and this gave me a lot of knowledge in the world of programming;
      
-   - I love innovation brainstormings, because i've worked in a multidisciplinar innovation lab that creates any kind of technology, from a CRUD web software to an IoT smart trash can.
+   - I love innovation brainstormings, because i've worked in a multidisciplinary innovation lab that creates any kind of technology, from a CRUD web software to an IoT smart trash can.
 </details>
 
 <details>
