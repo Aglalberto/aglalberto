@@ -66,18 +66,18 @@ Currently my focus is to get an opportunity to work with Frontend development, t
   <summary><strong>My top 10 favorite games</strong> 🕹️</summary>
   
   | 1  | Zelda Ocarina of Time                | N64        |
-  |----|---------------------------------------|------------|
+  |----|--------------------------------------|------------|
   | 2  | Castlevania Symphony of the Night    | PS1        |
   | 3  | The Elder Scrolls V Skyrim           | PC         |
-  | 4  | Megaman X1                            | SNES       |
-  | 5  | GTA San Andreas                      | PC         |
+  | 4  | Megaman X1                           | SNES       |
+  | 5  | Age of Mythology                     | PC         |
   | 6  | Need for Speed Underground 2         | PC         |
   | 7  | Resident Evil 2                      | PS1        |
   | 8  | Diablo 2                             | PS1        |
   | 9  | Pokémon Ruby                         | GBA        |
-  | 10 | Final Fantasy Tactics                | PS1        |
+  | 10 | GTA San Andreas                      | PC         |
 
-  ##### Bonus: Bike Mice From Mars [SNES] | Sonic [Mega drive] | Super Mario World [SNES] | Metal Warriors [SNES] <br>
+  ##### Bonus: Final Fantasy Tactics [PS1] | Bike Mice From Mars [SNES] | Metal Warriors [SNES] <br>
   ##### Will be always in my ❤: Ragnarok Online 
 </details>
 
