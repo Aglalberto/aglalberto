@@ -3,7 +3,7 @@
 
 Currently my focus is to get an opportunity to work with Frontend development, taking advantage of my 8 years of experience with UI & UX Design.
 
-- 🌱 I’m currently learning **Typescript/NextJS**
+- 🌱 I’m currently learning **React Native / Typescript**
 
 - 🤝 I’m looking for help to **find my first oportunity in frontend area**
 
