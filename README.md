@@ -5,7 +5,7 @@ Currently my focus is to get an opportunity to work with Frontend development, t
 
 - 🤖 I'm currently doing a degree in AI from PUC-PR
 
-- 🌱 I’m currently working on a **React Native / Typescript** project called Endoday
+- 🌱 I’m currently working on a **React Native / Typescript** mobile app project called Endoday
 
 - 🤝 I’m looking for help to **find my first oportunity in frontend area**
 
