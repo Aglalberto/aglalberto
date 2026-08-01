@@ -11,11 +11,7 @@
 
 Currently my focus is to get an opportunity to work with Frontend development, taking advantage of my 8 years of experience with UI & UX Design.
 
-- 🤖 I'm currently doing a degree in AI from PUC-PR
-
-- 🌱 I’m currently working on a **React Native / Typescript** mobile app project called Endoday
-
-- 🤝 I’m looking for help to **find my first oportunity in frontend area**
+- 🤝 I can help in **frontend developing** and **UX Design** projects
 
 - 💬 Ask me about **Human Computer Interaction (HCI)**
 
