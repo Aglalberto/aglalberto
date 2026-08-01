@@ -48,9 +48,9 @@ Currently my focus is to get an opportunity to work with Frontend development, t
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=figma" height="30" alt="figma logo"  />
   <img width="12" />
-  <img src="https://cdn.simpleicons.org/adobephotoshop/31A8FF" height="30" alt="photoshop logo"  />
+  <img src="https://skillicons.dev/icons?i=ps" height="30" alt="photoshop logo"  />
   <img width="12" />
-  <img src="https://cdn.simpleicons.org/adobeillustrator/FF9A00" height="30" alt="illustrator logo"  />
+  <img src="https://skillicons.dev/icons?i=ai" height="30" alt="illustrator logo"  />
   <img width="12" />
 </div>
 <br>
