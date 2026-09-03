@@ -7,7 +7,7 @@
 </p>
 
 <h1 align="center">Hi 👋, I'm Aglalberto</h1>
-<h3 align="center">A UI & UX Designer from Brazil</h3>
+<h3 align="center">UI & UX Designer from Brazil</h3>
 
 Currently my focus is to get an opportunity to work with UI/UX Design.
 
