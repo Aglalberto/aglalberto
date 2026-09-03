@@ -7,15 +7,15 @@
 </p>
 
 <h1 align="center">Hi 👋, I'm Aglalberto</h1>
-<h3 align="center">A Frontend developer and UI & UX Designer from Brazil</h3>
+<h3 align="center">A UI & UX Designer from Brazil</h3>
 
-Currently my focus is to get an opportunity to work with Frontend development, taking advantage of my 8 years of experience with UI & UX Design.
+Currently my focus is to get an opportunity to work with UI/UX Design.
 
-- 🤝 I can help in **frontend developing** and **UX Design** projects
+- 🤝 I can help **User interface design and User experience** 
 
 - 💬 Ask me about **Human Computer Interaction (HCI)**
 
-- 📄 Know about my experiences [https://aglalberto.github.io/resume/](https://aglalberto.github.io/resume/)
+- 📄 Know about my experiences [https://aglalberto.com](https://aglalberto.com)
 
 - 👨🏻‍💻👾 I’m a technology innovation enthusiast and old school gamer
 
