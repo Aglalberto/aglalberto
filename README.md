@@ -1,11 +1,3 @@
-<p align="center" >
-	<picture>
-	  <source media="(prefers-color-scheme: dark)"  srcset="https://raw.githubusercontent.com/<github_user>/<repository>/output-3d-contrib/night.svg" />
-	  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/<github_user>/<repository>/output-3d-contrib/day.svg" />
-	  <img alt="github profile contributions chart"    src="https://raw.githubusercontent.com/<github_user>/<repository>/output-3d-contrib/day.svg" />
-	</picture>
-</p>
-
 <h1 align="center">Hi 👋, I'm Aglalberto</h1>
 <h3 align="center">UI & UX Designer from Brazil</h3>
 
@@ -22,6 +14,16 @@ Currently my focus is to get an opportunity to work with UI/UX Design.
 
 <h3 align="left">Languages and Tools:</h3>
 <div align="left">
+  <img src="https://skillicons.dev/icons?i=figma" height="30" alt="figma logo"  />
+  <img width="12" />
+  <img src="https://go-skill-icons.vercel.app/api/icons?i=claude" height="30" alt="claude logo"  />
+  <img width="12" />
+  <img src="https://raw.githubusercontent.com/lobehub/lobe-icons/refs/heads/master/packages/static-png/dark/gemini-color.png" height="30" alt="gemini logo"  />
+  <img width="12" />
+  <img src="https://go-skill-icons.vercel.app/api/icons?i=chatgpt" height="30" alt="chatgpt logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=ps" height="30" alt="photoshop logo"  />
+  <img width="12" />
   <img src="https://skillicons.dev/icons?i=html" height="30" alt="html5 logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=css" height="30" alt="css3 logo"  />
@@ -42,12 +44,7 @@ Currently my focus is to get an opportunity to work with UI/UX Design.
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=github" height="30" alt="github logo"  />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=figma" height="30" alt="figma logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=ps" height="30" alt="photoshop logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=ai" height="30" alt="illustrator logo"  />
-  <img width="12" />
+  
 </div>
 <br>
 
